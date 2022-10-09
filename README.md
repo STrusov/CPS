@@ -1,6 +1,6 @@
 Музыкальный редактор (tracker) для ZX-Spectrum 48К с сопроцессором AY-3-8912.
 
-![интерфейс](https://zxtunes.com/software/scr/00A_1)
+![интерфейс](00A_1.png)
 
 [Эмулятор](https://zxart.ee/eng/software/tool/music/cacofony-pro-system/).
 
